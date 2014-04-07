@@ -1,3 +1,3 @@
-# Слайды к докладу «Зимние Игры – 2014»
+# Слайды к докладу
 
-http://maxvipon.github.io/talk-dump/
+«Зимние Игры – 2014» – http://maxvipon.github.io/talk-dump/
